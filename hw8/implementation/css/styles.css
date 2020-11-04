@@ -1,0 +1,26 @@
+.tooltip {
+    position: absolute;
+    text-align: center;
+    width: 200px;
+    height: 28px;
+    padding: 2px;
+    font: 10px helveticca;
+    background: lightsteelblue;
+    border-radius: 8px;
+}
+
+.tooltip h3,h4 {
+    text-align: left;
+}
+.tooltip h4 {
+    font: 12px sans-serif;
+}
+
+.table {
+    font-size: 0.7em;
+}
+
+#categorySelector {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
